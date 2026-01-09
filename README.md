@@ -1,5 +1,5 @@
 ## Hi there 👋
-![https://github.com/Yukpuffs](fondo.png)
+!(fondo.png)
 <!--
 **Yukpuffs/Yukpuffs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
