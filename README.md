@@ -1,6 +1,14 @@
-## Hi there 👋
+## Hi there 
 
-![fondo](fondo.jpg)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat venenatis placerat.🍙
+![fondo](fondo2.jpg)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat venenatis placerat. Suspendisse potenti. Sed rhoncus, sem sed cursus iaculis, leo dolor ultrices nisi, et sollicitudin nisi dui nec purus. Nullam et pulvinar magna. Proin cursus sed eros tempor ultricies. Suspendisse convallis ac risus at gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus pellentesque tortor quis iaculis. Vestibulum maximus metus ac auctor pretium.
+
+🌱 I’m currently learning:
+    -
+    -
+    -
 
 <!--
 **Yukpuffs/Yukpuffs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
