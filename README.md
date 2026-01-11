@@ -8,12 +8,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat venenatis
 
 ![gif](gatou.gif)
 
-
-🌱 I’m currently learning: \
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+<p align="center">
+    🌱 I’m currently learning: 
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
 
 <!--
 **Yukpuffs/Yukpuffs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
