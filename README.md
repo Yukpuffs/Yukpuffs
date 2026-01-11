@@ -1,9 +1,13 @@
 ## Hi there 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat venenatis placerat.🍙
+
 ![fondo](fondo2.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat venenatis placerat. Suspendisse potenti. Sed rhoncus, sem sed cursus iaculis, leo dolor ultrices nisi, et sollicitudin nisi dui nec purus. Nullam et pulvinar magna. Proin cursus sed eros tempor ultricies. Suspendisse convallis ac risus at gravida. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras faucibus pellentesque tortor quis iaculis. Vestibulum maximus metus ac auctor pretium.
+
+![gif](gatou.gif)
+
 
 🌱 I’m currently learning:
     -
