@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there 🧋
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat venenatis placerat.🍙
 
@@ -10,9 +10,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat venenatis
 
 
 🌱 I’m currently learning:
-    - Js 
-    - Htm
-    - Python 
+    - Js \
+    - Htm \
+    - Python \
     - CSS 
 
 <!--
