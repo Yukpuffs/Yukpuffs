@@ -10,10 +10,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec feugiat venenatis
 
 
 🌱 I’m currently learning:
-    - Js ![alt text](image-3.png)
-    - Html ![alt text](image.png)
-    - Python ![alt text](image-1.png)
-    - CSS ![alt text](image-2.png)
+    - Js 
+    - Htm
+    - Python 
+    - CSS 
 
 <!--
 **Yukpuffs/Yukpuffs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
